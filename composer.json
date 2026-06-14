@@ -1,10 +1,13 @@
 {
     "name": "artisan-build/matte-contracts",
     "description": "The versioned contracts shared between matte-client and matte-server.",
-    "keywords": ["matte", "laravel", "contracts"],
+    "keywords": [
+        "matte",
+        "laravel",
+        "contracts"
+    ],
     "license": "MIT",
     "type": "library",
-    "version": "0.1.0",
     "require": {
         "php": "^8.3"
     },
